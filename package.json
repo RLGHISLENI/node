@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Exercicios",
   "main": "arraysLodash.js",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "4.17.15"
+  },
   "devDependencies": {
     "lodash": "^4.17.15"
   },
@@ -11,5 +13,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Robertinho",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "codesandbox"
+  ]
 }
